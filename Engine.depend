@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1437632052 source:e:\project cs163\engine\main.cpp
+	"TRIE.h"
+
+1437724315 e:\project cs163\engine\trie.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<ctime>
+
+1437730089 source:e:\project cs163\engine\trie.cpp
+	"TRIE.h"
+
+1437741161 source:c:\users\intel\desktop\engine\main.cpp
+	"TRIE.h"
+
+1437746793 c:\users\intel\desktop\engine\trie.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<ctime>
+
+1437747471 source:c:\users\intel\desktop\engine\trie.cpp
+	"TRIE.h"
+
+1437839032 source:c:\users\intel\desktop\new folder\engine\main.cpp
+	"TRIE.h"
+
+1437932765 c:\users\intel\desktop\new folder\engine\trie.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<ctype.h>
+	<vector>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<algorithm>
+
+1437932772 source:c:\users\intel\desktop\new folder\engine\trie.cpp
+	"TRIE.h"
+
+1438881795 source:c:\users\jokernvt\desktop\engine\main.cpp
+	"TRIE.h"
+
+1438927344 c:\users\jokernvt\desktop\engine\trie.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<ctype.h>
+	<vector>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<algorithm>
+
+1438929414 source:c:\users\jokernvt\desktop\engine\trie.cpp
+	"TRIE.h"
+
+1438613429 source:e:\stuff\engine\main.cpp
+	"TRIE.h"
+
+1438274237 e:\stuff\engine\trie.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<ctype.h>
+	<vector>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<algorithm>
+
+1438613403 source:e:\stuff\engine\trie.cpp
+	"TRIE.h"
+
